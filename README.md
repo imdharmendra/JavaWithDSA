@@ -2,11 +2,6 @@
 
 Welcome to the **Java Practice** folder! This repository contains various Java programs, code snippets, and mini-projects for learning and practicing core Java concepts.
 
-## 📁 Folder Structure (Example)
-
-
-> *Note: Actual structure may differ depending on your files.*
-
 ## ✅ Topics Covered
 
 - ✅ Basic Java Syntax & Data Types
