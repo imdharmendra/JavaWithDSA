@@ -12,7 +12,7 @@ public class fourtyone {
 	   }
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		 int arr[] = {7, 8, 1, 3, 2};
 
 		 for( int i =0; i<arr.length-1; i++) {
