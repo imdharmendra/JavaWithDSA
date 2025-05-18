@@ -1,4 +1,4 @@
-//Print the inverted half pyramid pattern with numbers.
+ //Print the inverted half pyramid pattern with numbers.
 public class eight {
 	
 	public static void main(String[]args) {
